@@ -41,7 +41,7 @@ Mountain View Projects Manager is a desktop application designed to streamline t
 ## Configuration
 
 ### Projects.csv Format
-Create a CSV file with the following structure:
+CSV file with the following structure:
 ```csv
 Region,Project Name,Project Path
 North Region,Project Alpha,C:\Projects\North\Alpha
