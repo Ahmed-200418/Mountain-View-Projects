@@ -1,0 +1,17 @@
+D:\3-Coding\ProjectManagerDesigner\bin\Debug\net8.0-windows\ProjectManagerDesigner.exe
+D:\3-Coding\ProjectManagerDesigner\bin\Debug\net8.0-windows\Projects.csv
+D:\3-Coding\ProjectManagerDesigner\bin\Debug\net8.0-windows\ProjectManagerDesigner.deps.json
+D:\3-Coding\ProjectManagerDesigner\bin\Debug\net8.0-windows\ProjectManagerDesigner.runtimeconfig.json
+D:\3-Coding\ProjectManagerDesigner\bin\Debug\net8.0-windows\ProjectManagerDesigner.dll
+D:\3-Coding\ProjectManagerDesigner\bin\Debug\net8.0-windows\ProjectManagerDesigner.pdb
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.Form1.resources
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.csproj.GenerateResource.cache
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.AssemblyInfoInputs.cache
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.AssemblyInfo.cs
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.csproj.CoreCompileInputs.cache
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.dll
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\refint\ProjectManagerDesigner.dll
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.pdb
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ProjectManagerDesigner.genruntimeconfig.cache
+D:\3-Coding\ProjectManagerDesigner\obj\Debug\net8.0-windows\ref\ProjectManagerDesigner.dll
